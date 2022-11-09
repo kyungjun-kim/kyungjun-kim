@@ -1,6 +1,6 @@
 - ### 👋 Hi, I’m Kyung jun Kim
 - ### Career
-  - 레드테이블 - Data Engineer - (2022-04 ~ )
+  - (주)레드테이블 - Data Engineer - (2022-04 ~ )
 
 - ### Interests
   - Data Pipeline
