@@ -3,8 +3,9 @@
   - 레드테이블 - Data Engineer - (2022-04~ 
 
 - ### Interests
-  - Data Crawling - Processing
   - Data Pipeline
+  - Data Crawling
+  - Data Processing
   - SQL
   - Spark
 
