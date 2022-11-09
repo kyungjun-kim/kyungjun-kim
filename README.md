@@ -3,10 +3,10 @@
   - 레드테이블 Data Engineer 2022-04~ 
 
 - ### Interests
-  - Data Engineering
   - Data Crawling - Processing
+  - Data Pipeline
   - SQL
-  - 
+  - Spark
 
 - #### 작성했던 코드들 -> Projects-Codes
 - 
