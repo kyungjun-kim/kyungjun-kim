@@ -1,4 +1,4 @@
-- ### 👋 Hi, I’m @kyungjun-kim
+- ### 👋 Hi, I’m Kyungjun Kim
 - ### Career
   - 레드테이블 - Data Engineer - (2022-04~ 
 
