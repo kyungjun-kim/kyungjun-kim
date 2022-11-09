@@ -1,4 +1,4 @@
-- 작성했던 코드들 위치 -> Repositories / Portfolio
+- 작성했던 코드들 위치 -> Projects-Codes
 
 - 👋 Hi, I’m @kyungjun-kim
 - 👀 I’m interested in Data Engineering
