@@ -1,13 +1,17 @@
 - ### 👋 Hi, I’m Kyung jun Kim
 - ### Career
   - (주)레드테이블 - Data Engineer - (2022-04 ~ )
+    - Main Task : 
+      - Data collection, preprocessing
+      - 
 
+    -  
 - ### Interests
   - Data Pipeline
-  - Data Crawling
+  - Web Crawling with Selenium
   - Data Processing
-  - SQL
-  - Spark
+  - SQL (MySQL)
+  - Spark (Pyspark)
 
 - ### Codes :
   Repository -> Projects-Codes (https://github.com/kyungjun-kim/Projects-Codes) 
