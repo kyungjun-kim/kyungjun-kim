@@ -2,16 +2,16 @@
 - ### Career
   - (주)레드테이블 - Data Engineer - (2022-04 ~ )
     - Main Task : 
-      - Collectiong, Preprocessing Data
+      - Data Collecting , Web Crawling with Selenium
+      - Preprocessing Data
       - Constructing Database with SQL
       - Managing Data Pipeline
       - Process Automation
       
 - ### Interests
-  - Web Crawling with Selenium
-  - Data Processing
   - SQL (MySQL)
   - Spark (Pyspark)
+  - Learning scala
 
 - ### Projects :
   Repository -> Projects (https://github.com/kyungjun-kim/Projects) 
