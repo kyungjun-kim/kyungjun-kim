@@ -13,7 +13,7 @@
   - SQL (MySQL)
   - Spark (Pyspark)
 
-- ### Codes :
+- ### Projects Codes :
   Repository -> Projects-Codes (https://github.com/kyungjun-kim/Projects-Codes) 
  
 - ### Study :
