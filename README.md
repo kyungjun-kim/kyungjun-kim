@@ -16,7 +16,7 @@
 - ### Projects Codes :
   Repository -> Projects-Codes (https://github.com/kyungjun-kim/Projects-Codes) 
  
-- ### Study :
+- ### Study Codes :
   Repository -> Study (https://github.com/kyungjun-kim/Study)
  
 <!---
