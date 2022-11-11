@@ -13,11 +13,14 @@
   - SQL (MySQL)
   - Spark (Pyspark)
 
-- ### Projects Codes :
-  Repository -> Projects-Codes (https://github.com/kyungjun-kim/Projects-Codes) 
+- ### Projects :
+  Repository -> Projects (https://github.com/kyungjun-kim/Projects) 
  
-- ### Study Codes :
+- ### Study :
   Repository -> Study (https://github.com/kyungjun-kim/Study)
+  
+- ### Solving Problems :
+  Repository -> Solving_Problems (https://github.com/kyungjun-kim/Solving_Problems)
  
 <!---
 kyungjun-kim/kyungjun-kim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
