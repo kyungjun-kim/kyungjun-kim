@@ -3,13 +3,11 @@
   - (주)레드테이블 - Data Engineer - (2022-04 ~ )
     - Main Task : 
       - Collectiong, Preprocessing Data
-      - Constructing Database , Managing Data Pipeline
+      - Constructing Database with SQL
+      - Managing Data Pipeline
       - Process Automation
-
-
-    -  
+      
 - ### Interests
-  - Data Pipeline
   - Web Crawling with Selenium
   - Data Processing
   - SQL (MySQL)
