@@ -14,13 +14,13 @@
   - Learning scala
 
 - ### Projects :
-  Repository -> Projects (https://github.com/kyungjun-kim/Projects) 
+  Repository -> https://github.com/kyungjun-kim/Projects
  
 - ### Study :
-  Repository -> Study (https://github.com/kyungjun-kim/Study)
+  Repository -> https://github.com/kyungjun-kim/Study
   
 - ### Solving Problems :
-  Repository -> Solving_Problems (https://github.com/kyungjun-kim/Solving_Problems)
+  Repository -> https://github.com/kyungjun-kim/Solving_Problems
  
 <!---
 kyungjun-kim/kyungjun-kim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
