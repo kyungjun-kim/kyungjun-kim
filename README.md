@@ -11,7 +11,7 @@
 - ### Interests
   - SQL (MySQL)
   - Spark (Pyspark)
-  - Learning scala
+  - Learning Scala
 
 - ### Projects :
   Repository -> https://github.com/kyungjun-kim/Projects
