@@ -19,7 +19,7 @@
 - ### Study :
   Repository -> https://github.com/kyungjun-kim/Study
   
-- ### Solving Problems :
+- ### Problem Solving :
   Repository -> https://github.com/kyungjun-kim/Solving_Problems
  
 <!---
