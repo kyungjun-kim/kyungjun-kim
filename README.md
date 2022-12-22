@@ -20,7 +20,7 @@
   Repository -> https://github.com/kyungjun-kim/Study
   
 - ### Problem Solving :
-  Repository -> https://github.com/kyungjun-kim/Solving_Problems
+  Repository -> https://github.com/kyungjun-kim/Problem_Solving
  
 <!---
 kyungjun-kim/kyungjun-kim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
