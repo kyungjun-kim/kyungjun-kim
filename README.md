@@ -1,5 +1,5 @@
 - # 👋 Hi, I’m [KyungJun Kim]
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi, I’m%20Name&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Your%20Professional%20Title&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,_I’m%20Name&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Your%20Professional%20Title&descAlignY=51&descAlign=62)
 
 
 
