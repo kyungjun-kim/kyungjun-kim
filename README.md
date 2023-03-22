@@ -1,5 +1,5 @@
 - # 👋 [KyungJun Kim]
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=I’m%20KyungJun_Kim&fontSize=50&animation=fadeIn&fontAlignY=38&desc=%20Professional%20Title&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=I’m%20KyungJun_Kim&fontSize=50&animation=fadeIn&fontAlignY=38&desc=%%20Title&descAlignY=51&descAlign=62)
 
 
 
