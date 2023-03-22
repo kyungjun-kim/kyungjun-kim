@@ -1,5 +1,5 @@
-- # 👋 Hi, I’m [Kyung jun Kim]
-- ![Kyung jun Kim](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Your%20Name&fontSize=50&animation=fadeIn&fontAlignY=38&desc=MY%20Professional%20Title&descAlignY=51&descAlign=62)
+- # 👋 Hi, I’m [Kyung Jun Kim]
+- ![Kyung jun Kim](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Kyung  Jun%20Kim&fontSize=50&animation=fadeIn&fontAlignY=38&desc=%20Title&descAlignY=51&descAlign=62)
 
 - ### Career
   - (주)레드테이블 - Data Engineer - (2022-04 ~ )
