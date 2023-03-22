@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Hi%20I’m%20KyungJun%20Kim%20👋&fontSize=50&animation=fadeIn&fontAlignY=38&desc=%&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20I’m%20KyungJun%20Kim%20👋&fontSize=50&animation=fadeIn&fontAlignY=38&desc=%&descAlignY=51&descAlign=62)
 ## 🌟 About Me 
 - ### Career🌴
   - (주)Red Table - Data Engineer - (2022-04 ~ )
