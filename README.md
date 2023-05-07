@@ -8,11 +8,11 @@
       - Constructing Database with SQL
       - Managing Data Pipeline
       - Process Automation
-- ### Platforms & Languages🛠️
+- ### Languages & Skills🛠️
 <div align="left">
-	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
 	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
 	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
+	<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=Selenium&logoColor=white" />
 
 </div>
 
