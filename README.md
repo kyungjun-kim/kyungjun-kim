@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20I’m%20KyungJun%20Kim%20👋&fontSize=50&animation=fadeIn&fontAlignY=38&desc=%&descAlignY=51&descAlign=62)
 ## 🌟 About Me 
+	<img src="https://github-readme-stats.vercel.app/api?username=kyungjun-kim&show_icons=true">
 - ### Career🌴
   - (주)Red Table - Data Engineer - (2022-04 ~ )
     - Main Task : 
