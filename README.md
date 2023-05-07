@@ -15,6 +15,7 @@
 	<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=Selenium&logoColor=white" />
 	<img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=OpenAI&logoColor=white" />
 	<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white" />
+	<img src="https://img.shields.io/badge/Apache Spark-E25A1C?style=flat&logo=Apache Spark&logoColor=white" />
 </div>
 
 - ### Interests 🚀
