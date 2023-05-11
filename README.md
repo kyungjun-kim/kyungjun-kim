@@ -33,6 +33,9 @@
   
 - ### Problem Solving ⌨ :
   Repository -> https://github.com/kyungjun-kim/Problem_Solving
+  
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kkj214)](https://solved.ac/kkj214/)
+
  
 <!---
 kyungjun-kim/kyungjun-kim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
