@@ -17,7 +17,6 @@
 	<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white" />
 	<img src="https://img.shields.io/badge/Apache Spark-E25A1C?style=flat&logo=Apache Spark&logoColor=white" />
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
-
 </div>
 
 - ### Interests 🚀
@@ -35,7 +34,9 @@
   Repository -> https://github.com/kyungjun-kim/Problem_Solving
   
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kkj214)](https://solved.ac/kkj214/)
-
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyungjun-kim&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyungjun-kim&layout=compact&theme=tokyonight)
  
 <!---
 kyungjun-kim/kyungjun-kim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
