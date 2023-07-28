@@ -17,6 +17,7 @@
 	<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white" />
 	<img src="https://img.shields.io/badge/Apache Spark-E25A1C?style=flat&logo=Apache Spark&logoColor=white" />
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
+	<img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=Dart&logoColor=white" />
 </div>
 
 - ### Interests 🚀
