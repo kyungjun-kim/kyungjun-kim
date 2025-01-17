@@ -31,11 +31,6 @@
 	<img src="https://img.shields.io/badge/Flutter-02569B?style=flate&logo=Flutter&logoColor=white">
 </div>
 
-- ### Interests 🚀
-  - SQL (MySQL)
-  - Spark (Pyspark)
-  - Learning Scala
-
 - ### Projects 💻 :
   - 주린이를 위한 시장 트렌드 분석 프로젝트-> https://github.com/Engine-in-us/stocommunity
   - 미국 주식 정보 ETL 프로젝트 -> https://github.com/DataKkagdugi/Stock_ETL
