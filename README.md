@@ -1,13 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20I’m%20KyungJun%20Kim%20👋&fontSize=50&animation=fadeIn&fontAlignY=38&desc=%&descAlignY=51&descAlign=62)
 ## 🌟 About Me 
-- ### Career🌴
-  - (주)Red Table - Data Engineer - (2022-04 ~ 2023-05)
-    - Main Task : 
-      - Data Collecting , Web Crawling with Selenium
-      - Preprocessing Data
-      - Constructing Database with SQL
-      - Managing Data Pipeline
-      - Process Automation
 - ### Languages & Skills🛠️
 <div align="left">
 	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
