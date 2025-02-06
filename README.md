@@ -45,10 +45,10 @@
 
 
 ###  Projects 💻 :
-  - 주린이를 위한 시장 트렌드 분석 프로젝트-> https://github.com/Engine-in-us/stocommunity
-  - 미국 주식 정보 ETL 프로젝트 -> https://github.com/DataKkagdugi/Stock_ETL
-  - 날씨와 음악 선호도간의 상관관계 및 추세 파악 프로젝트 -> https://github.com/7igma/weather-tunes
-  - 흑백요리사 식당 리뷰 시각화 서비스 프로젝트 -> https://github.com/SixSense-Team6/crawl_restaurant
+  - 주린이를 위한 시장 트렌드 분석 프로젝트 (2024/12/18~2025/01/15)-> https://github.com/Engine-in-us/stocommunity
+  - 미국 주식 정보 ETL 프로젝트 (2024/11/22~2024/11/27) -> https://github.com/DataKkagdugi/Stock_ETL
+  - 날씨와 음악 선호도간의 상관관계 및 추세 파악 프로젝트 (2024/11/01~2024/11/06) -> https://github.com/7igma/weather-tunes
+  - 흑백요리사 식당 리뷰 시각화 서비스 프로젝트 (2024/10/14~2024/10/17) -> https://github.com/SixSense-Team6/crawl_restaurant
   - 그 외 기타 프로젝트 -> https://github.com/kyungjun-kim/Projects
  
 ### Study 📓 :
